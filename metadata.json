@@ -1,0 +1,5 @@
+{
+  "name": "AlphaInsight AI Stock Predictor",
+  "description": "A high-performance stock analysis and prediction dashboard powered by Gemini 3 Pro. Features real-time search grounding, technical analysis, and sentiment-driven forecasting.",
+  "requestFramePermissions": []
+}
